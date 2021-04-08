@@ -5,7 +5,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 Outside of [GitHub](https://github.com/NasirAliShah/), You can **find me. Currently I'm **free to contribute**
-[![Twitter: NasirAliShah](https://img.shields.io/twitter/follow/NasirAliShah01?style=social)](https://twitter.com/NasirAliShah01)</br>
-[![Linkedin: NasirAliShah](https://img.shields.io/badge/-NasirAliShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-ali-shah/)</br>
+[![Twitter: NasirAliShah](https://img.shields.io/twitter/follow/NasirAliShah01?style=social)](https://twitter.com/NasirAliShah01)
+[![Linkedin: NasirAliShah](https://img.shields.io/badge/-NasirAliShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-ali-shah/)
 [![GitHub NasirAliShah](https://img.shields.io/github/followers/NasirAliShah?label=follow&style=social)](https://github.com/NasirAliShah)
 <p><a href="https://www.hackerrank.com/Nasiralishah?hr_r=1">🌐 Check out my website</a></p>
