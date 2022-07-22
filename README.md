@@ -12,10 +12,12 @@ I am a problem solver who always thinks about how to solve real-life problems us
 This is my CV which was last updated on `22-July-2022`.
 
 ### Blockchain
- <img src="./images/blockchains.png" alt="Blockchain" /> 
+ <img src="./images/flow.png" alt="Blockchain" /> 
+ <img src="./images/cadence.png" alt="Blockchain" /> 
  
 ### Platforms and Framworks
- <img src="./images/framwworks.png" alt="Frameworks" /> 
+ <img src="./images/react.png" alt="Frameworks" /> 
+ <img src="./images/node.png" alt="Frameworks" /> 
  
 ### Programing Languages
  <img src="./images/languages.png" alt="Languages" /> 
